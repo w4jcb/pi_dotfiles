@@ -5,7 +5,7 @@ set -ux
 cd
 
 if [ ! -d Local-Repo/dotfiles ] ; then
-  git clone https://github.com/w4jcb/dotfiles.git Local-Repo/dotfiles
+  git clone https://raw.githubusercontent.com/w4jcb/pi_dotfiles/master/install.sh Local-Repo/dotfiles
 fi
 
 cd Local-Repo/dotfiles
