@@ -1,6 +1,6 @@
-My Dot Files
+My Dot Files 
 
-These are config files I use for my systems. (This is a work in progress)
+These are config files I use for my RPi systems. (This is a work in progress)
 
 Installation of dotfiles, symbolic links and all the programs I use.
 
