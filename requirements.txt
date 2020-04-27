@@ -1,4 +1,2 @@
 pynvim 
 flake8
-pylint
-isort
