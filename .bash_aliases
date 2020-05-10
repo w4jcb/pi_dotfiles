@@ -45,6 +45,8 @@ alias ghistory="history | grep"
 alias port='netstat -tulanp'
 alias listen="lsof -P -i -n"
 alias ?='man' #haha
+alias lc='locate'
+
 
 alias f='file'
 alias s='stat'
