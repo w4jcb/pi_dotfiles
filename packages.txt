@@ -1,12 +1,8 @@
-htop
 grsync
 gparted
 gedit
-git
 gedit-plugin-text-size
 vlc
 neovim
 vim
-curl
-python3-pip
 
