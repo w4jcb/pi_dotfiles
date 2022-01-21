@@ -1,2 +1,1 @@
-pynvim 
-flake8
+tasksel
