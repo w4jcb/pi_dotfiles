@@ -3,6 +3,3 @@ gparted
 gedit
 gedit-plugin-text-size
 vlc
-neovim
-vim
-
