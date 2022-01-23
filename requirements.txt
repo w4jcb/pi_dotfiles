@@ -1,1 +1,1 @@
-tasksel
+# anything that needs "pip" to install
