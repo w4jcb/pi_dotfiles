@@ -5,3 +5,4 @@ gedit-plugin-text-size
 vlc
 tasksel
 audacity
+tasksel
