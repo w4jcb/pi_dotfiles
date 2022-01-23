@@ -32,5 +32,5 @@ done
     
 # Install packages I can't live without.
 xargs -a packages.txt sudo apt-get install
-sudo pip install -r requirements.txt
+# sudo pip install -r requirements.txt
 
