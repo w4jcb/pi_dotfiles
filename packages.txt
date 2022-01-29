@@ -2,6 +2,7 @@ grsync
 gparted
 gedit
 gedit-plugin-text-size
+ffmpeg
 nemo
 vlc
 tasksel
