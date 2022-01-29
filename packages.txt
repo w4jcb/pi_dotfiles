@@ -6,9 +6,5 @@ nemo
 vlc
 tasksel
 audacity
-<<<<<<< HEAD
-tasksel
-=======
 tasksel
 wget
->>>>>>> b7c1956d8e2ff2033380c62b03e432715149ce01
