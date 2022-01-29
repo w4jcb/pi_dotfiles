@@ -30,7 +30,5 @@ for file in ${files}; do
     ln -sf ${dotfiledir}/.${file} ${homedir}/.${file}
 done
     
-# Install packages I can't live without.
-xargs -a packages.txt sudo apt-get install
-# sudo pip install -r requirements.txt
+# Install packages I can't live without. Just put them in the text file.
 
