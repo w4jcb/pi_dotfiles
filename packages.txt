@@ -4,6 +4,7 @@ grsync
 gparted
 gedit
 gedit-plugin-text-size
+flac
 ffmpeg
 nemo
 net-tools
